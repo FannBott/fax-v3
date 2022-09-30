@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6282334170916" ],
+ owner: [ "66827294199" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -7,7 +7,7 @@ userbot = {
    },
    prefix: ["/"],
    gexp: 50,
-   limit: 100,
+   limit: 10000,
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
